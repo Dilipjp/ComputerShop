@@ -1,7 +1,7 @@
 // Assignment: computerstore
 // © DILIP
 // Written by: DILIP (2393565)
-package assigment_1;
+package assigment;
 
 import java.util.Scanner;
 

@@ -5,5 +5,5 @@
  * @author Admin
  *
  */
-module Assigment {
+module ComputerShopAssigment {
 }

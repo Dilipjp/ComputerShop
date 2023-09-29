@@ -1,4 +1,4 @@
-package assigment_1;
+package assigment;
 
 import java.util.Objects;
 
